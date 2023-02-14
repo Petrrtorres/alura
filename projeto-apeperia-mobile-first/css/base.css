@@ -19,6 +19,8 @@
 --planos-cartao-start: #56CCF2;
 --planos-cartao-ultra: #B04CD9;
 --planos-cartao-mega: #E33B3B;
+
+--montserrat: 'Montserrat', sans-serif;
 }
 
 
@@ -42,6 +44,6 @@ body {
 
   padding: 1rem 2rem;
 
-  border: 1px solid #fff;
+  border: 1px solid var(--branco);
   border-radius: 0.5rem;
 }
