@@ -1,10 +1,10 @@
-.menu-link {
+.menu__link {
   text-decoration: none;
   color: #808080;
   text-transform: lowercase;
 }
 
-.menu-link:hover {
+.menu__link:hover {
   text-decoration: underline;
   font-weight: 700;
 }
