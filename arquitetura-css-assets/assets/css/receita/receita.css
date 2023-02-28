@@ -1,0 +1,13 @@
+.receita {
+  background-color: #fdfdfd;
+  
+  display: flex;
+  flex-direction: column;
+  
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+
+  width: calc(25% - 2rem);
+
+  border-radius: .5rem;
+}
