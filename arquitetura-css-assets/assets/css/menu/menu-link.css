@@ -11,3 +11,9 @@
   padding: .5rem;
   font-weight: 700;
 }
+
+@media screen and (min-width: 0) {
+    .menu__link {
+
+    }
+}
