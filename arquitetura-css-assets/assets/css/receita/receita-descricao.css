@@ -6,3 +6,11 @@
 
   margin: 1rem 0 3rem;
 }
+
+@media screen and (min-width: 0) {
+    .receita__descricao {
+      font-size: 1.7rem;
+      line-height: 1.6;
+      text-align: justify;
+    }
+}
