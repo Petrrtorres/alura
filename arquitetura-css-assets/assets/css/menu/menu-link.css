@@ -2,9 +2,18 @@
   text-decoration: none;
   color: #808080;
   text-transform: lowercase;
+  padding: .5rem;
 }
 
 .menu__link:hover {
-  text-decoration: underline;
+  background-color: #b1adad49;
+  border-radius: .8rem;
+  padding: .5rem;
   font-weight: 700;
+}
+
+@media screen and (min-width: 0) {
+    .menu__link {
+      margin-right: 1.5rem;
+    }
 }

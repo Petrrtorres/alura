@@ -6,13 +6,13 @@
 
 @media screen and (min-width: 0) {
     .quem-somos__titulo {
-        font-size: 3.5rem;
+        font-size: 4.5rem;
     }
 }
 
 @media screen and (min-width: 768px) {
     .quem-somos__titulo {
-        font-size: 4rem;
+        font-size: 5rem;
     }
 }
 
