@@ -2,9 +2,3 @@
   text-align: center;
   padding: 6rem;
 }
-
-@media screen and (min-width: 0) {
-  .quem-somos {
-    margin: 0 auto;
-  }
-}
