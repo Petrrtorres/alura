@@ -3,4 +3,3 @@
   novaTarefa.addEventListener('click', ()=> {
     console.log('Fui clicado!')});
    
-    
